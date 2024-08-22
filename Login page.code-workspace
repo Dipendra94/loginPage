@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../clg"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Login page"
+	}
+}
